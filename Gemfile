@@ -75,7 +75,7 @@ gem "devise", "~> 5.0"
 gem "dotenv-rails", "~> 3.2"
 
 gem "bcrypt", "~> 3.1"
-gem "jwt", "~> 3.2"
+gem "jwt", "~> 3.3"
 
 gem "active_model_serializers", "~> 0.10.16"
 
